@@ -11,7 +11,7 @@ html {
     }
 
     html {
-        font-size: 75%;
+        font-size: 1.2 rem;
         font-family: monospace;
     }
 }
@@ -21,6 +21,7 @@ html {
     .top {
         background: MistyRose;
         font-family: 'Times New Roman', Times, serif;
+        font-size: 1rem;
     }
 
     header {
